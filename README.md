@@ -92,9 +92,7 @@ In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Do
 - Then I Configure the ELK Server memory and increased.
 - After that I Download Docker ELK Container and configure it.
 
-The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![Running Docker ps](./Images/Docker_ps.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
