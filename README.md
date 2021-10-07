@@ -9,17 +9,17 @@ These files been tested and verify and used to generate a live ELK Stack deploym
 
 DVWA-Playbook.yml used to install DVWA Webservers.
 
-- [`DVWA-Playbook.yml` used to install DVWA Webservers.](./DVWA/DVWA-Playbook.yml)
+- [`DVWA-Playbook.yml` How I installed DVWA Webservers.](./DVWA/DVWA-Playbook.yml)
 
-- [`install-elk.yml` is how to install ELK Stack Server.](./ELK/install-elk.yml)
+- [`install-elk.yml` How I installed the ELK Stack Server.](./ELK/install-elk.yml)
 
 - [`filebeat-config.yml` Filebeat configuration modified and copied to the webservers as a  `filebeat.yml`.](./Filebeat/filebeat-config.yml)
 
-- [`filebeat-playbook.yml` I install Filebeat Syslog Service on the webservers.](./Filebeat/filebeat-playbook.yml)
+- [`filebeat-playbook.yml` How I installed Filebeat Syslog Service on the webservers.](./Filebeat/filebeat-playbook.yml)
 
 - [`metricbeat-config.yml` Metricbeat configuration modified and copied to the webserver as a `metricbeat.yml`.](./Metricbeat/metricbeat-config.yml)
 
-- [`metricbeat-playbook.yml` I install Metricbeat service on webservers](./Metricbeat/metricbeat-playbook.yml)
+- [`metricbeat-playbook.yml` How I isntalled Metricbeat service on webservers](./Metricbeat/metricbeat-playbook.yml)
 
 This document contains the following details:
 
