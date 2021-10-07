@@ -4,7 +4,6 @@ The files in this repository were used to configure the network depicted below.
 ![elk diagram](https://user-images.githubusercontent.com/79720153/136299379-fe16f903-a213-4cb0-8b02-d55aeb2fc44e.JPG)
 
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
 
 These files been tested and verify and used to generate a live ELK Stack deployment within Azure. They can also be used to either recreate the entire deployment pictured above. And also maybe select portions of the yml files may be used to install only certain pieces of it, such as Filebeat.
 
@@ -534,4 +533,4 @@ we can and should further harden setups by fallowing this steps:
 - implementing a host firewall (UFC OR IPtables) on the jump box.
 - limiting jump box network access with a virtual private network (VPN).
 
-Thank you so much for reading my ELK-Stack project.
+Thank you so much for reading my ELK-Stack project, and I hope this further shows my skillset.
