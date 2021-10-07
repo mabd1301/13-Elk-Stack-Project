@@ -131,7 +131,7 @@ In order update specific machines we edited the /etc/ansible/hosts by ensuring t
 
 - first I Install the ELK Stack on the elk server.
 - then Connected to the Jump Box and attach to the Ansible container
-- SSH into the Jump-Box by using ssh sysadmin@137.135.107.66
+- SSH into the Jump-Box by using ssh RedAdmin@104.211.14.49
 
 - Locate the container name:
 
@@ -144,17 +144,17 @@ CONTAINER ID   IMAGE                          COMMAND                  CREATED  
 - Start the container:
 
 ```bash
-- Azureuser@Jump-Box-Provisioner:~$ sudo docker container start festive_wiles
+- Azureuser@Jump-Box-Provisioner:~$ sudo docker container start  intelligent_joliot
 ```
 
 ```bash
 - root@54c365na980c:~#
 ```
 
-- Attach (connect) to the Ansible container: festive_wiles
+- Attach (connect) to the Ansible container:  intelligent_joliot
 
 ```bash
-- Azureuser@Jump-Box-Provisioner:~$ sudo docker container attach festive_wiles
+- Azureuser@Jump-Box-Provisioner:~$ sudo docker container attach  intelligent_joliot
 ```
 
 ```bash
